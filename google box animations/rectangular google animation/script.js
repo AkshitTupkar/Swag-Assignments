@@ -61,7 +61,7 @@ function showAndMove() {
     nDirection = nObj.flag;
     
     // Cycle
-    showAndMove.timer = setTimeout(f, 50);
+    showAndMove.timer = setTimeout(f, 10);
   }, 0);
 }
 
